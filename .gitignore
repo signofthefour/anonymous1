@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test/coverage
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# C/C++
+*.o
+*.out
+*.a
+*.dylib
+*.dll
+*.exe
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Data
+*.csv
+*.tsv
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+
+# Package managers
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Conda
+conda-meta/
+
+# UV
+.uv/
+
+# Ignore third-party build artifacts
+third_party/**/build/
+third_party/**/dist/
+third_party/**/__pycache__/
