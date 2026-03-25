@@ -1,7 +1,9 @@
+# We borrow the original setup from Zyphra/Zonos
+
 [project]
 name = "mamtra"
 version = "0.1.0"
-description = "Text-to-speech by Zyphra"
+description = "Text-to-speech with Mamba"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
